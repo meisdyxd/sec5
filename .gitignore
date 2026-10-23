@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+~$*.docx
+*.png
+*.svg
+*.xml
+*.drawio
+*.docx
+*.md
